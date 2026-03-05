@@ -10,7 +10,7 @@ import List from './pages/List/List'
 
 const App = () => {
 
-  const url = "http://localhost:4000"
+  const url = "https://food-delivery-backend-tg1j.onrender.com"
 
   return (
     <div>
